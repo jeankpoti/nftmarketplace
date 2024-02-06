@@ -1,6 +1,6 @@
 # nftmarketplace
 
-UI for nft marketplace
+UI for nft marketplace made with flutter
 
 - [Inspired by Luka Mirtskhulava](https://dribbble.com/shots/21841088-Hip-Hop-Ape)
 
